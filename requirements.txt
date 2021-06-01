@@ -22,6 +22,6 @@ python-dateutil==2.7.2    # via alembic
 python-editor==1.0.3      # via alembic
 six==1.11.0               # via python-dateutil
 sqlalchemy==1.2.7         # via alembic, flask-sqlalchemy
-urllib3==1.22
+urllib3==1.26.5
 werkzeug==0.14.1          # via flask
 wtforms==2.1              # via flask-wtf
